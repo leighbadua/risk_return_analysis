@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ipynb_checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints/risk_return_analysis-checkpoint.ipynb
+
+# OS generated files
+.DS_Store
